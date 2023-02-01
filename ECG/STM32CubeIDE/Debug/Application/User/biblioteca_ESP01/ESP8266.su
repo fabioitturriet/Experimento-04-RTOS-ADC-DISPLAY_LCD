@@ -1,0 +1,7 @@
+../Application/User/biblioteca_ESP01/ESP8266.c:170:6:WiFi_OFF	0	static
+../Application/User/biblioteca_ESP01/ESP8266.c:261:18:transmitATcommand	32	static
+../Application/User/biblioteca_ESP01/ESP8266.c:304:18:VerificaErro	40	static
+../Application/User/biblioteca_ESP01/ESP8266.c:175:9:BuscarRedes	744	static
+../Application/User/biblioteca_ESP01/ESP8266.c:226:6:ConectarWiFi	624	static
+../Application/User/biblioteca_ESP01/ESP8266.c:286:18:rodaComandoAT	2064	static
+../Application/User/biblioteca_ESP01/ESP8266.c:41:6:ESP_init	16	static

@@ -1,0 +1,17 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:Screen1View::~Screen1View()	0	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:23:6:virtual void Screen1View::tearDownScreen()	0	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:34:6:virtual void Screen1View::StopData()	0	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:39:6:virtual void Screen1View::AjusteEscala()	0	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:49:6:virtual void Screen1View::BackDeriv()	8	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:56:6:virtual void Screen1View::NextDeriv()	8	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:18:6:virtual void Screen1View::setupScreen()	0	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:62:6:virtual void Screen1View::AtualizaTextDerv()	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:virtual Screen1View::~Screen1View()	8	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:44:6:virtual void Screen1View::SetMinMaxEscalaGraph(int16_t, int16_t)	0	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:13:1:Screen1View::Screen1View()	8	static
+D:/ProjetoSTM32ECG/ECG/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:28:6:void Screen1View::UpdateGraph(float)	0	static

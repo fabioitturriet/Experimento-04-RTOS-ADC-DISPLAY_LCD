@@ -1,5 +1,8 @@
 # Experimento-04-RTOS-ADC-DISPLAY_LCD
 
+# Biblioteca PanTompkinsQRS
+
+
 # Biblioteca RingBuffer
 
  A utilização da funções basicas para comunicação, como por exemplo a HAL_UART_Receive(), não é adquada por a comunicação é realizada em modo de bloqueio (o CPU fica "esperando" os dados chegar). Além disso, nessa função deve ser especificada o tempo que a comunicação acontece, ou seja o tempo que o CPU fica esperando os dados chegarem, o que é inviável na comunicação com o ESP já que o tempo de resposta do ESP para os comandos é variável. 
